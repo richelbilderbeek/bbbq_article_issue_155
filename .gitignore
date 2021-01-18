@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+get_proteome.R
+human.fasta
+*.fasta
+*.gz
